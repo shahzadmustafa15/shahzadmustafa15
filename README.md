@@ -84,7 +84,7 @@ My work combines **machine learning, backend APIs, modern web development, and c
 
 # 🚀 Featured Projects
 
-## 🚗 HumSafar
+## 🚗 HumSafar (Working on it)
 
 ### Real-Time Carpooling & Ride-Sharing Platform
 
