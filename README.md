@@ -1,4 +1,4 @@
-# Hi, I'm Shahzad Mustafa 👋
+# Hi, I'm Shahzad Mustafa 
 
 ### Applied AI Engineer · Backend Developer · Full-Stack & Mobile Developer
 
